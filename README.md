@@ -1,7 +1,7 @@
 # literate-fortnight
 plular demo
 
-# <a href='http://pluralsight.com'><img src='https://runt-of-the-web.com/wordpress/wp-content/uploads/2016/04/baby-taxidermy.jpg' height='60' alt='Pluralsight Logo' /></a> My implementation of a great course on Github
+# <a href='http://pluralsight.com'><img src='https://runt-of-the-web.com/wordpress/wp-content/uploads/2016/04/baby-taxidermy.jpg'  alt='hihi' /></a> My implementation of a great course on Github
 
 **That picture lol XD**
 
